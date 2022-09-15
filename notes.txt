@@ -1,0 +1,13 @@
+git init
+git init using for new repo project
+
+git add .
+git add used to stage all files
+
+git commit -m "message"
+git commit used to a message to the staged files
+
+git push
+git push used to upload files on github & this is last step
+
+
